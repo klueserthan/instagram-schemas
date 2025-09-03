@@ -1,0 +1,1747 @@
+[
+    {
+        "about": null,
+        "account_badges": [],
+        "account_category": "",
+        "account_type": 3,
+        "active_standalone_fundraisers": {
+            "fundraisers": [],
+            "total_count": 0
+        },
+        "additional_business_addresses": [],
+        "adjusted_banners_order": [],
+        "ads_incentive_expiration_date": null,
+        "ads_page_id": null,
+        "ads_page_name": null,
+        "allow_manage_memorialization": false,
+        "auto_expand_chaining": false,
+        "avatar_status": {
+            "has_avatar": false
+        },
+        "bio_links": [
+            {
+                "creation_source": "NONE",
+                "icon_url": "",
+                "image_url": "",
+                "is_pinned": false,
+                "is_verified": false,
+                "link_id": 18104378314502656,
+                "link_type": "external",
+                "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fhelp.instagram.com%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAafzKI39T79yqvFcpakdXmWpqURkNP9oN3BNXU7kWtKsuu9H_eWtOQvY9tmszg_aem_OLliBLPplqc2u5o9X02sbQ&e=AT2RxWkWAqvjJPOxWcVzSOgoMix8XhYUbvfUEXqwwOKOeYAGfGAFx7h03Fo8_S5ka83wu8B069PQv1TU3PUWMZcjxx6TEMAogPwNcM4",
+                "media_accent_color_hex": "",
+                "media_type": "none",
+                "open_external_url_with_in_app_browser": true,
+                "title": "",
+                "url": "http://help.instagram.com"
+            }
+        ],
+        "biography": "Discover what's new on Instagram 🔎✨",
+        "biography_email": null,
+        "biography_with_entities": {
+            "entities": [],
+            "raw_text": "Discover what's new on Instagram 🔎✨"
+        },
+        "birthday_today_visibility_for_viewer": "NOT_VISIBLE",
+        "broadcast_chat_preference_status": {
+            "json_response": "{\"status\":\"ok\",\"status_code\":\"200\",\"is_broadcast_chat_creator\":true,\"notification_setting_type\":2}"
+        },
+        "business_contact_method": "UNKNOWN",
+        "can_add_fb_group_link_on_profile": false,
+        "can_hide_category": true,
+        "can_hide_public_contacts": true,
+        "can_use_affiliate_partnership_messaging_as_brand": false,
+        "can_use_affiliate_partnership_messaging_as_creator": false,
+        "can_use_branded_content_discovery_as_brand": false,
+        "can_use_branded_content_discovery_as_creator": false,
+        "can_use_paid_partnership_messaging_as_creator": false,
+        "category": "Digital creator",
+        "category_id": 2347428775505624,
+        "chaining_upsell_cards": [],
+        "contact_phone_number": "",
+        "creator_shopping_info": {
+            "linked_merchant_accounts": []
+        },
+        "current_catalog_id": null,
+        "direct_messaging": "",
+        "disable_profile_shop_cta": false,
+        "eligible_for_text_app_activation_badge": false,
+        "enable_add_school_in_edit_profile": false,
+        "existing_user_age_collection_enabled": true,
+        "external_lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fhelp.instagram.com%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAafzKI39T79yqvFcpakdXmWpqURkNP9oN3BNXU7kWtKsuu9H_eWtOQvY9tmszg_aem_OLliBLPplqc2u5o9X02sbQ&e=AT2RxWkWAqvjJPOxWcVzSOgoMix8XhYUbvfUEXqwwOKOeYAGfGAFx7h03Fo8_S5ka83wu8B069PQv1TU3PUWMZcjxx6TEMAogPwNcM4",
+        "external_url": "http://help.instagram.com",
+        "fan_club_info": {
+            "autosave_to_exclusive_highlight": null,
+            "connected_member_count": null,
+            "fan_club_id": null,
+            "fan_club_name": null,
+            "fan_consideration_page_revamp_eligiblity": null,
+            "has_created_ssc": null,
+            "has_enough_subscribers_for_ssc": null,
+            "is_fan_club_gifting_eligible": null,
+            "is_fan_club_referral_eligible": null,
+            "is_free_trial_eligible": null,
+            "largest_public_bc_id": null,
+            "subscriber_count": null
+        },
+        "fbid_v2": "17841400039600391",
+        "feed_post_reshare_disabled": false,
+        "follow_friction_type": 0,
+        "follower_count": 694386815,
+        "following_count": 229,
+        "full_name": "Instagram",
+        "has_anonymous_profile_picture": false,
+        "has_chaining": false,
+        "has_collab_collections": false,
+        "has_ever_selected_topics": false,
+        "has_exclusive_feed_content": false,
+        "has_fan_club_subscriptions": false,
+        "has_gen_ai_personas_for_profile_banner": false,
+        "has_guides": false,
+        "has_highlight_reels": true,
+        "has_ig_profile": true,
+        "has_music_on_profile": false,
+        "has_nme_badge": false,
+        "has_private_collections": true,
+        "has_public_tab_threads": true,
+        "has_videos": true,
+        "has_views_fetching": true,
+        "hd_profile_pic_url_info": {
+            "height": 1080,
+            "url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/281440578_1088265838702675_6233856337905829714_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QEK0gw3Nl_8Q0D3MBMOMHPU768ysUfjG6V_DeBYt_VOD-LSNlNV2W_nUzHX28kfqmE&_nc_ohc=pFYOPFb1X9AQ7kNvwF-f-zw&_nc_gid=3dOeLs1ux5d9K0dr8Gxc8g&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GEJxxhBTsLyixd0DAFLHsZlPG4NWbkULAAAB99-ccb7-5&oh=00_AfaakMOrqdzo3FRvcK-0Lz1-aH8JA6rcSA0wEszB19uGxw&oe=68BDCBD8&_nc_sid=164c1d",
+            "width": 1080
+        },
+        "hd_profile_pic_versions": [
+            {
+                "height": 320,
+                "url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/281440578_1088265838702675_6233856337905829714_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QEK0gw3Nl_8Q0D3MBMOMHPU768ysUfjG6V_DeBYt_VOD-LSNlNV2W_nUzHX28kfqmE&_nc_ohc=pFYOPFb1X9AQ7kNvwF-f-zw&_nc_gid=3dOeLs1ux5d9K0dr8Gxc8g&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GEJxxhBTsLyixd0DAFLHsZlPG4NWbkULAAAB13-ccb7-5&oh=00_AfZoCispt9qJVYrXM2d0L-mEbEX2zh_jqt8YT1YWXrR8vA&oe=68BDCBD8&_nc_sid=164c1d",
+                "width": 320
+            },
+            {
+                "height": 640,
+                "url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/281440578_1088265838702675_6233856337905829714_n.jpg?stp=dst-jpg_s640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QEK0gw3Nl_8Q0D3MBMOMHPU768ysUfjG6V_DeBYt_VOD-LSNlNV2W_nUzHX28kfqmE&_nc_ohc=pFYOPFb1X9AQ7kNvwF-f-zw&_nc_gid=3dOeLs1ux5d9K0dr8Gxc8g&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GEJxxhBTsLyixd0DAFLHsZlPG4NWbkULAAAB8-ccb7-5&oh=00_AfZ-DOXyzvRtmpkuq7ufHAKP5yUO7XzMl0BbGtJSoPGQKg&oe=68BDCBD8&_nc_sid=164c1d",
+                "width": 640
+            }
+        ],
+        "highlight_reshare_disabled": false,
+        "highlights_tray_type": "DEFAULT",
+        "id": "25025320",
+        "include_direct_blacklist_status": true,
+        "instagram_pk": "25025320",
+        "interop_messaging_user_fbid": 117943452927407,
+        "is_active_on_text_post_app": true,
+        "is_auto_confirm_enabled_for_all_reciprocal_follow_requests": false,
+        "is_bestie": false,
+        "is_business": false,
+        "is_call_to_action_enabled": false,
+        "is_cannes": false,
+        "is_category_tappable": false,
+        "is_creator_agent_enabled": false,
+        "is_direct_roll_call_enabled": true,
+        "is_eligible_for_creator_product_links": false,
+        "is_eligible_for_meta_verified_enhanced_link_sheet": false,
+        "is_eligible_for_meta_verified_enhanced_link_sheet_consumption": false,
+        "is_eligible_for_meta_verified_label": true,
+        "is_eligible_for_meta_verified_links_in_reels": false,
+        "is_eligible_for_meta_verified_multiple_addresses_consumption": false,
+        "is_eligible_for_meta_verified_multiple_addresses_creation": false,
+        "is_eligible_for_meta_verified_related_accounts": false,
+        "is_eligible_for_post_boost_mv_upsell": false,
+        "is_eligible_for_request_message": false,
+        "is_eligible_for_slide": false,
+        "is_favorite": false,
+        "is_favorite_for_clips": false,
+        "is_favorite_for_highlights": false,
+        "is_favorite_for_stories": false,
+        "is_in_canada": false,
+        "is_interest_account": true,
+        "is_memorialized": false,
+        "is_meta_verified_related_accounts_display_enabled": false,
+        "is_new_to_instagram": false,
+        "is_opal_enabled": false,
+        "is_open_to_collab": false,
+        "is_oregon_custom_gender_consented": false,
+        "is_parenting_account": false,
+        "is_potential_business": false,
+        "is_prime_onboarding_account": false,
+        "is_private": false,
+        "is_profile_audio_call_enabled": false,
+        "is_profile_broadcast_sharing_enabled": true,
+        "is_profile_picture_expansion_enabled": true,
+        "is_profile_search_enabled": false,
+        "is_recon_ad_cta_on_profile_eligible_with_viewer": true,
+        "is_regulated_c18": false,
+        "is_regulated_news_in_viewer_location": false,
+        "is_remix_setting_enabled_for_posts": true,
+        "is_remix_setting_enabled_for_reels": true,
+        "is_ring_creator": false,
+        "is_secondary_account_creation": false,
+        "is_stories_teaser_muted": false,
+        "is_supervision_features_enabled": false,
+        "is_verified": true,
+        "is_whatsapp_linked": false,
+        "latest_besties_reel_media": 0,
+        "latest_reel_media": 1756829271,
+        "live_subscription_status": "default",
+        "location_data": {
+            "address_street": "",
+            "city_id": 0,
+            "city_name": "",
+            "instagram_location_id": "367152833370567",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "zip": ""
+        },
+        "media_count": 8128,
+        "merchant_checkout_style": "none",
+        "meta_verified_benefits_info": {
+            "active_meta_verified_benefits": [],
+            "is_eligible_for_meta_verified_content_protection": false
+        },
+        "meta_verified_related_accounts_count": 0,
+        "nametag": {
+            "available_theme_colors": [
+                -1,
+                7747834,
+                13828293,
+                16712041,
+                16742912,
+                0
+            ],
+            "background_image_url": "",
+            "emoji": "😀",
+            "emoji_color": 0,
+            "gradient": 2,
+            "is_background_image_blurred": true,
+            "mode": 0,
+            "selected_theme_color": -1,
+            "selfie_sticker": 0,
+            "selfie_url": "",
+            "theme_color": {
+                "available_theme_colors": [
+                    {
+                        "display_label": "Default",
+                        "int_value": -1
+                    },
+                    {
+                        "display_label": "Purple",
+                        "int_value": 7747834
+                    },
+                    {
+                        "display_label": "Lavender",
+                        "int_value": 13828293
+                    },
+                    {
+                        "display_label": "Pink",
+                        "int_value": 16712041
+                    },
+                    {
+                        "display_label": "Orange",
+                        "int_value": 16742912
+                    },
+                    {
+                        "display_label": "Black",
+                        "int_value": 0
+                    }
+                ],
+                "selected_theme_color": {
+                    "display_label": "Default",
+                    "int_value": -1
+                }
+            }
+        },
+        "nonpro_can_maybe_see_profile_hypercard": false,
+        "not_meta_verified_friction_info": {
+            "is_eligible_for_label_friction": false,
+            "label_friction_content": "Not Meta Verified"
+        },
+        "open_external_url_with_in_app_browser": true,
+        "page_id": 367152833370567,
+        "page_name": "Instagram",
+        "pinned_channels_info": {
+            "has_public_channels": true,
+            "pinned_channels_list": [
+                {
+                    "creator_broadcast_chat_thread_preview_response": {
+                        "audience_type": 0,
+                        "is_added_to_inbox": false,
+                        "is_collaborator": null,
+                        "is_follower": null,
+                        "is_invited_collaborator": null,
+                        "is_subscriber": null
+                    },
+                    "creator_igid": null,
+                    "creator_username": "instagram",
+                    "group_image_background_uri": "",
+                    "group_image_uri": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/281440578_1088265838702675_6233856337905829714_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HgBoZV3x0Z0Q7kNvwGXbDOq&_nc_oc=AdnmSt-FJfXPh9tsmvJ4wFeDfgzU-olsOHVRZaPjMzT1W5uZBDj_T-dc9apKQNTNX7E&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&oh=00_AfbdT3-ZGnvRt4KuEtlRJot6UXX483vmFo4wVJYIMi0R4w&oe=68BDCBD8",
+                    "invite_link": "https://www.instagram.com/channel/AbbbJ5udmRl1M0Uh/",
+                    "is_creator_verified": true,
+                    "is_member": false,
+                    "number_of_members": 3028369,
+                    "should_badge_channel": null,
+                    "social_channel_invite_id": null,
+                    "social_context_username": null,
+                    "subtitle": "Channel • 3M members",
+                    "thread_igid": "340282366841710301281158605291592089435",
+                    "thread_subtype": 29,
+                    "title": "What’s Good on Instagram ✨"
+                }
+            ]
+        },
+        "posts_subscription_status": "default",
+        "primary_profile_link_type": 0,
+        "professional_conversion_suggested_account_type": 3,
+        "profile_context": "",
+        "profile_context_facepile_users": [],
+        "profile_context_links_with_user_ids": [],
+        "profile_overlay_info": {
+            "bloks_payload": null,
+            "overlay_format": "MEDIA_GRID"
+        },
+        "profile_pic_genai_tool_info": [],
+        "profile_pic_id": "2839516949842903169",
+        "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/281440578_1088265838702675_6233856337905829714_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QH4nl4OLKarGuIB_iTlhMP3XC1MCPbbQ0jrBYh3rbuYqstpZ9ao3vQ_rxpYIcW7sPA&_nc_ohc=pFYOPFb1X9AQ7kNvwF-f-zw&_nc_gid=3dOeLs1ux5d9K0dr8Gxc8g&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GEJxxhBTsLyixd0DAFLHsZlPG4NWbkULAAAB-ccb7-5&oh=00_AfZl7Loc4sj0SUqe4jrEGaXZ7s_07DnI5sXde4G81pKCkQ&oe=68BDCBD8&_nc_sid=164c1d",
+        "profile_pic_url_hd": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/281440578_1088265838702675_6233856337905829714_n.jpg?stp=dst-jpg_s640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QEK0gw3Nl_8Q0D3MBMOMHPU768ysUfjG6V_DeBYt_VOD-LSNlNV2W_nUzHX28kfqmE&_nc_ohc=pFYOPFb1X9AQ7kNvwF-f-zw&_nc_gid=3dOeLs1ux5d9K0dr8Gxc8g&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GEJxxhBTsLyixd0DAFLHsZlPG4NWbkULAAAB8-ccb7-5&oh=00_AfZ-DOXyzvRtmpkuq7ufHAKP5yUO7XzMl0BbGtJSoPGQKg&oe=68BDCBD8&_nc_sid=164c1d",
+        "profile_reels_sorting_eligibility": "DISABLED",
+        "profile_type": 0,
+        "pronouns": [],
+        "public_email": "",
+        "public_phone_country_code": "",
+        "public_phone_number": "",
+        "recon_features": {
+            "enable_recon_cta": true
+        },
+        "recs_from_friends": {
+            "enable_recs_from_friends": false,
+            "recs_from_friends_entry_point_type": "banner"
+        },
+        "reels_subscription_status": "default",
+        "relevant_news_regulation_locations": [],
+        "remove_message_entrypoint": false,
+        "request_contact_enabled": false,
+        "ring_creator_metadata": {},
+        "seller_shoppable_feed_type": "none",
+        "should_show_tagged_tab": true,
+        "show_account_transparency_details": true,
+        "show_blue_badge_on_main_profile": true,
+        "show_post_insights_entry_point": true,
+        "show_ring_award": false,
+        "show_schools_badge": null,
+        "show_shoppable_feed": false,
+        "show_wa_link_on_profile": false,
+        "spam_follower_setting_enabled": true,
+        "stories_subscription_status": "default",
+        "text_app_last_visited_time": null,
+        "text_post_app_badge_label": "instagram",
+        "text_post_new_post_count": 3,
+        "third_party_downloads_enabled": 2,
+        "threads_profile_glyph_url": "https://www.threads.com/@instagram?modal=true&xmt=AQF0uI_hzoqul4FzpOAZGScq339P3H_fgVUBM4jHC3MmNSE",
+        "total_ar_effects": 0,
+        "transparency_product_enabled": false,
+        "trial_clips_enabled": false,
+        "trial_clips_rate_limiting": {
+            "at_limit_body": "You've shared the maximum number of trial reels allowed within 24 hours. You can share this reel to everyone now as a regular reel or wait up to 24 hours to share it as a trial reel.",
+            "at_limit_title": "You've reached the limit",
+            "count": 20,
+            "warning_body": "You’ve almost reached the limit. Once you share this trial reel, you’ll need to wait up to 24 hours to start using trial reels again.",
+            "warning_title": "You can share one more trial reel"
+        },
+        "upcoming_events": [],
+        "username": "instagram",
+        "views_on_grid_status": "SHOW_VIEWS_ON_GRID"
+    },
+    {
+        "about": null,
+        "account_badges": [],
+        "account_category": "",
+        "account_type": 3,
+        "active_standalone_fundraisers": {
+            "fundraisers": [],
+            "total_count": 0
+        },
+        "additional_business_addresses": [],
+        "adjusted_banners_order": [],
+        "ads_incentive_expiration_date": null,
+        "ads_page_id": null,
+        "ads_page_name": null,
+        "allow_manage_memorialization": false,
+        "auto_expand_chaining": false,
+        "avatar_status": {
+            "has_avatar": false
+        },
+        "bio_links": [
+            {
+                "creation_source": "NONE",
+                "icon_url": "",
+                "image_url": "",
+                "is_pinned": false,
+                "is_verified": false,
+                "link_id": 17848750689332721,
+                "link_type": "external",
+                "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Favacr7.com%2Fen%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAadCJeTW0WCHJtPy85Zcy299oKSnJBrpJcanVNFTuBSJc8Q1RJdrbv48poo-zA_aem_kUlBOKkJZmn23A2XF-6vAA&e=AT0XfHh7OM25J3ByAVzfESh-IHDbDDYsAVIWzcmJln8r9Fnu6cLEO5Tjvq2MgV7wWMHfCUOAIWsb05frULVR-I3axQ2pfheXxsKdAY8",
+                "media_accent_color_hex": "",
+                "media_type": "none",
+                "open_external_url_with_in_app_browser": true,
+                "title": "AVA",
+                "url": "http://avacr7.com/en"
+            }
+        ],
+        "biography": "SIUUUbscribe to my Youtube Channel!",
+        "biography_email": null,
+        "biography_with_entities": {
+            "entities": [],
+            "raw_text": "SIUUUbscribe to my Youtube Channel!"
+        },
+        "birthday_today_visibility_for_viewer": "NOT_VISIBLE",
+        "broadcast_chat_preference_status": {
+            "json_response": "{\"status\":\"ok\",\"status_code\":\"200\",\"is_broadcast_chat_creator\":true,\"notification_setting_type\":2}"
+        },
+        "business_contact_method": "UNKNOWN",
+        "can_add_fb_group_link_on_profile": false,
+        "can_hide_category": true,
+        "can_hide_public_contacts": true,
+        "can_use_affiliate_partnership_messaging_as_brand": false,
+        "can_use_affiliate_partnership_messaging_as_creator": false,
+        "can_use_branded_content_discovery_as_brand": false,
+        "can_use_branded_content_discovery_as_creator": false,
+        "can_use_paid_partnership_messaging_as_creator": false,
+        "category": "Athlete",
+        "category_id": 1600,
+        "chaining_upsell_cards": [],
+        "contact_phone_number": "",
+        "creator_shopping_info": {
+            "linked_merchant_accounts": []
+        },
+        "current_catalog_id": null,
+        "direct_messaging": "",
+        "disable_profile_shop_cta": false,
+        "eligible_for_text_app_activation_badge": false,
+        "enable_add_school_in_edit_profile": false,
+        "existing_user_age_collection_enabled": true,
+        "external_lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Favacr7.com%2Fen%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAadCJeTW0WCHJtPy85Zcy299oKSnJBrpJcanVNFTuBSJc8Q1RJdrbv48poo-zA_aem_kUlBOKkJZmn23A2XF-6vAA&e=AT0XfHh7OM25J3ByAVzfESh-IHDbDDYsAVIWzcmJln8r9Fnu6cLEO5Tjvq2MgV7wWMHfCUOAIWsb05frULVR-I3axQ2pfheXxsKdAY8",
+        "external_url": "http://avacr7.com/en",
+        "fan_club_info": {
+            "autosave_to_exclusive_highlight": null,
+            "connected_member_count": null,
+            "fan_club_id": null,
+            "fan_club_name": null,
+            "fan_consideration_page_revamp_eligiblity": null,
+            "has_created_ssc": null,
+            "has_enough_subscribers_for_ssc": null,
+            "is_fan_club_gifting_eligible": null,
+            "is_fan_club_referral_eligible": null,
+            "is_free_trial_eligible": null,
+            "largest_public_bc_id": null,
+            "subscriber_count": null
+        },
+        "fbid_v2": "17841401692602711",
+        "feed_post_reshare_disabled": false,
+        "follow_friction_type": 0,
+        "follower_count": 663619175,
+        "following_count": 607,
+        "full_name": "Cristiano Ronaldo",
+        "has_anonymous_profile_picture": false,
+        "has_chaining": false,
+        "has_collab_collections": false,
+        "has_ever_selected_topics": false,
+        "has_exclusive_feed_content": false,
+        "has_fan_club_subscriptions": false,
+        "has_gen_ai_personas_for_profile_banner": false,
+        "has_guides": false,
+        "has_highlight_reels": false,
+        "has_ig_profile": true,
+        "has_music_on_profile": false,
+        "has_nme_badge": false,
+        "has_private_collections": false,
+        "has_public_tab_threads": true,
+        "has_videos": true,
+        "has_views_fetching": true,
+        "hd_profile_pic_url_info": {
+            "height": 1080,
+            "url": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF0zz3BrzDFDkDmLHn0UkYqxegXQxBPJJUXkbbqUvoRqn4tgDP93jdsSFM1al8q25g&_nc_ohc=ylDySqMEEdYQ7kNvwG2a_nd&_nc_gid=zlqRKFAMY8k2-7dFQWSMLQ&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB99-ccb7-5&oh=00_AfZTPswaU_yISIdUsJ1z57BrPdbof94qVTJ-HAC1qg0kSg&oe=68BDAC9E&_nc_sid=164c1d",
+            "width": 1080
+        },
+        "hd_profile_pic_versions": [
+            {
+                "height": 320,
+                "url": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF0zz3BrzDFDkDmLHn0UkYqxegXQxBPJJUXkbbqUvoRqn4tgDP93jdsSFM1al8q25g&_nc_ohc=ylDySqMEEdYQ7kNvwG2a_nd&_nc_gid=zlqRKFAMY8k2-7dFQWSMLQ&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB13-ccb7-5&oh=00_AfZ0IVd2r96VtAPxD5PMw_1drJC9Ajef8tc_wLIww2lkdg&oe=68BDAC9E&_nc_sid=164c1d",
+                "width": 320
+            },
+            {
+                "height": 640,
+                "url": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF0zz3BrzDFDkDmLHn0UkYqxegXQxBPJJUXkbbqUvoRqn4tgDP93jdsSFM1al8q25g&_nc_ohc=ylDySqMEEdYQ7kNvwG2a_nd&_nc_gid=zlqRKFAMY8k2-7dFQWSMLQ&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB8-ccb7-5&oh=00_AfY6J4KjXktREs2NDiJc3OGDOkNvd5wjjT6YYxNGiudxGw&oe=68BDAC9E&_nc_sid=164c1d",
+                "width": 640
+            }
+        ],
+        "highlight_reshare_disabled": false,
+        "highlights_tray_type": "DEFAULT",
+        "id": "173560420",
+        "include_direct_blacklist_status": true,
+        "instagram_pk": "173560420",
+        "interop_messaging_user_fbid": 102483341146317,
+        "is_active_on_text_post_app": false,
+        "is_auto_confirm_enabled_for_all_reciprocal_follow_requests": false,
+        "is_bestie": false,
+        "is_business": false,
+        "is_call_to_action_enabled": false,
+        "is_cannes": false,
+        "is_category_tappable": false,
+        "is_creator_agent_enabled": false,
+        "is_direct_roll_call_enabled": true,
+        "is_eligible_for_creator_product_links": false,
+        "is_eligible_for_meta_verified_enhanced_link_sheet": false,
+        "is_eligible_for_meta_verified_enhanced_link_sheet_consumption": false,
+        "is_eligible_for_meta_verified_label": true,
+        "is_eligible_for_meta_verified_links_in_reels": false,
+        "is_eligible_for_meta_verified_multiple_addresses_consumption": false,
+        "is_eligible_for_meta_verified_multiple_addresses_creation": false,
+        "is_eligible_for_meta_verified_related_accounts": false,
+        "is_eligible_for_post_boost_mv_upsell": false,
+        "is_eligible_for_request_message": false,
+        "is_eligible_for_slide": false,
+        "is_favorite": false,
+        "is_favorite_for_clips": false,
+        "is_favorite_for_highlights": false,
+        "is_favorite_for_stories": false,
+        "is_in_canada": false,
+        "is_interest_account": true,
+        "is_memorialized": false,
+        "is_meta_verified_related_accounts_display_enabled": false,
+        "is_new_to_instagram": false,
+        "is_opal_enabled": false,
+        "is_open_to_collab": false,
+        "is_oregon_custom_gender_consented": false,
+        "is_parenting_account": false,
+        "is_potential_business": false,
+        "is_prime_onboarding_account": false,
+        "is_private": false,
+        "is_profile_audio_call_enabled": false,
+        "is_profile_broadcast_sharing_enabled": true,
+        "is_profile_picture_expansion_enabled": true,
+        "is_profile_search_enabled": false,
+        "is_recon_ad_cta_on_profile_eligible_with_viewer": true,
+        "is_regulated_c18": false,
+        "is_regulated_news_in_viewer_location": false,
+        "is_remix_setting_enabled_for_posts": true,
+        "is_remix_setting_enabled_for_reels": true,
+        "is_ring_creator": false,
+        "is_secondary_account_creation": false,
+        "is_stories_teaser_muted": false,
+        "is_supervision_features_enabled": false,
+        "is_verified": true,
+        "is_whatsapp_linked": false,
+        "latest_besties_reel_media": 0,
+        "latest_reel_media": 1756844067,
+        "live_subscription_status": "default",
+        "location_data": {
+            "address_street": "",
+            "city_id": 0,
+            "city_name": "",
+            "instagram_location_id": "",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "zip": ""
+        },
+        "media_count": 3931,
+        "merchant_checkout_style": "none",
+        "meta_verified_benefits_info": {
+            "active_meta_verified_benefits": [],
+            "is_eligible_for_meta_verified_content_protection": false
+        },
+        "meta_verified_related_accounts_count": 0,
+        "nametag": {
+            "available_theme_colors": [
+                -1,
+                7747834,
+                13828293,
+                16712041,
+                16742912,
+                0
+            ],
+            "background_image_url": "",
+            "emoji": "😀",
+            "emoji_color": 0,
+            "gradient": 0,
+            "is_background_image_blurred": true,
+            "mode": 0,
+            "selected_theme_color": -1,
+            "selfie_sticker": 0,
+            "selfie_url": "",
+            "theme_color": {
+                "available_theme_colors": [
+                    {
+                        "display_label": "Default",
+                        "int_value": -1
+                    },
+                    {
+                        "display_label": "Purple",
+                        "int_value": 7747834
+                    },
+                    {
+                        "display_label": "Lavender",
+                        "int_value": 13828293
+                    },
+                    {
+                        "display_label": "Pink",
+                        "int_value": 16712041
+                    },
+                    {
+                        "display_label": "Orange",
+                        "int_value": 16742912
+                    },
+                    {
+                        "display_label": "Black",
+                        "int_value": 0
+                    }
+                ],
+                "selected_theme_color": {
+                    "display_label": "Default",
+                    "int_value": -1
+                }
+            }
+        },
+        "nonpro_can_maybe_see_profile_hypercard": false,
+        "not_meta_verified_friction_info": {
+            "is_eligible_for_label_friction": false,
+            "label_friction_content": "Not Meta Verified"
+        },
+        "open_external_url_with_in_app_browser": true,
+        "page_id": 81221197163,
+        "page_name": "Cristiano Ronaldo",
+        "pinned_channels_info": {
+            "has_public_channels": true,
+            "pinned_channels_list": [
+                {
+                    "creator_broadcast_chat_thread_preview_response": {
+                        "audience_type": 0,
+                        "is_added_to_inbox": false,
+                        "is_collaborator": null,
+                        "is_follower": null,
+                        "is_invited_collaborator": null,
+                        "is_subscriber": null
+                    },
+                    "creator_igid": null,
+                    "creator_username": "cristiano",
+                    "group_image_background_uri": "",
+                    "group_image_uri": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pJGcnN3k6sAQ7kNvwFZH2WR&_nc_oc=Adm68RzJ5pOGWaH-1Q4VV5HdVEbiaGkPocCS15C1j6cnvLvwNFDJmelQjj9g_Hyrv_o&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-2.cdninstagram.com&oh=00_AfYsyXG8SoOWQpaOlOucipzQkZvBDAzGnRuQn7MzXAhQHw&oe=68BDAC9E",
+                    "invite_link": "https://www.instagram.com/channel/AbYUvZyuVHIcnx5R/",
+                    "is_creator_verified": true,
+                    "is_member": false,
+                    "number_of_members": 11725100,
+                    "should_badge_channel": null,
+                    "social_channel_invite_id": null,
+                    "social_context_username": null,
+                    "subtitle": "Channel • 11M members",
+                    "thread_igid": "340282366841710301281158976788264896771",
+                    "thread_subtype": 29,
+                    "title": "Cristiano"
+                }
+            ]
+        },
+        "posts_subscription_status": "default",
+        "primary_profile_link_type": 0,
+        "professional_conversion_suggested_account_type": 3,
+        "profile_context": "",
+        "profile_context_facepile_users": [],
+        "profile_context_links_with_user_ids": [],
+        "profile_overlay_info": {
+            "bloks_payload": null,
+            "overlay_format": "MEDIA_GRID"
+        },
+        "profile_pic_genai_tool_info": [],
+        "profile_pic_id": "3538918987303987037",
+        "profile_pic_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QEDRlXmZ75grzeBT4EtTjBjmBkFnH05veyk6iZ6zAzU_ywE0_5QRm7jeLKzZwH6rD0&_nc_ohc=ylDySqMEEdYQ7kNvwG2a_nd&_nc_gid=zlqRKFAMY8k2-7dFQWSMLQ&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB-ccb7-5&oh=00_AfZuVNBKFpqe69wFSOaVzCwVfn_8_z78svQNLkqONYqoLA&oe=68BDAC9E&_nc_sid=164c1d",
+        "profile_pic_url_hd": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF0zz3BrzDFDkDmLHn0UkYqxegXQxBPJJUXkbbqUvoRqn4tgDP93jdsSFM1al8q25g&_nc_ohc=ylDySqMEEdYQ7kNvwG2a_nd&_nc_gid=zlqRKFAMY8k2-7dFQWSMLQ&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB8-ccb7-5&oh=00_AfY6J4KjXktREs2NDiJc3OGDOkNvd5wjjT6YYxNGiudxGw&oe=68BDAC9E&_nc_sid=164c1d",
+        "profile_reels_sorting_eligibility": "DISABLED",
+        "profile_type": 0,
+        "pronouns": [],
+        "public_email": "",
+        "public_phone_country_code": "",
+        "public_phone_number": "",
+        "recon_features": {
+            "enable_recon_cta": true
+        },
+        "recs_from_friends": {
+            "enable_recs_from_friends": false,
+            "recs_from_friends_entry_point_type": "banner"
+        },
+        "reels_subscription_status": "default",
+        "relevant_news_regulation_locations": [],
+        "remove_message_entrypoint": false,
+        "request_contact_enabled": false,
+        "ring_creator_metadata": {},
+        "seller_shoppable_feed_type": "none",
+        "should_show_tagged_tab": true,
+        "show_account_transparency_details": true,
+        "show_blue_badge_on_main_profile": true,
+        "show_post_insights_entry_point": true,
+        "show_ring_award": false,
+        "show_schools_badge": null,
+        "show_shoppable_feed": false,
+        "show_wa_link_on_profile": false,
+        "spam_follower_setting_enabled": true,
+        "stories_subscription_status": "default",
+        "text_app_last_visited_time": null,
+        "third_party_downloads_enabled": 1,
+        "total_ar_effects": 0,
+        "transparency_product_enabled": false,
+        "trial_clips_enabled": false,
+        "trial_clips_rate_limiting": {
+            "at_limit_body": "You've shared the maximum number of trial reels allowed within 24 hours. You can share this reel to everyone now as a regular reel or wait up to 24 hours to share it as a trial reel.",
+            "at_limit_title": "You've reached the limit",
+            "count": 20,
+            "warning_body": "You’ve almost reached the limit. Once you share this trial reel, you’ll need to wait up to 24 hours to start using trial reels again.",
+            "warning_title": "You can share one more trial reel"
+        },
+        "upcoming_events": [],
+        "username": "cristiano",
+        "views_on_grid_status": "SHOW_VIEWS_ON_GRID"
+    },
+    {
+        "about": null,
+        "account_badges": [],
+        "account_category": "",
+        "account_type": 3,
+        "active_standalone_fundraisers": {
+            "fundraisers": [],
+            "total_count": 0
+        },
+        "additional_business_addresses": [],
+        "adjusted_banners_order": [],
+        "ads_incentive_expiration_date": null,
+        "ads_page_id": null,
+        "ads_page_name": null,
+        "allow_manage_memorialization": false,
+        "auto_expand_chaining": false,
+        "avatar_status": {
+            "has_avatar": false
+        },
+        "bio_links": [
+            {
+                "creation_source": "NONE",
+                "icon_url": "",
+                "image_url": "",
+                "is_pinned": false,
+                "is_verified": false,
+                "link_id": 18363135385075088,
+                "link_type": "external",
+                "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fkyliecosmetics.com%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaeshk6OxfkEle1ey6ka5jYyzsVA4ef3OUGLZa1EXC-jMIfAAwYbZxYh-fciMA_aem_iaYeTgAgiXq8nJ7rgyytuQ&e=AT3OmRvCDw60JbB4IKIdyNctCo3ihWO2vCw6aAHlw6fksvRyEKGm2eTpMdYV8Vbv1s0IGklCR_JdMyI8axe8vZ7VMtiBaMw2Ez2cSr8",
+                "media_accent_color_hex": "",
+                "media_type": "none",
+                "open_external_url_with_in_app_browser": true,
+                "title": "",
+                "url": "http://kyliecosmetics.com"
+            },
+            {
+                "creation_source": "NONE",
+                "icon_url": "",
+                "image_url": "",
+                "is_pinned": false,
+                "is_verified": false,
+                "link_id": 17852963538073230,
+                "link_type": "external",
+                "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fkhy.com%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaeXX5fmDp_qHrjwm1Ke1JJ8nhKkRUgdVIndekOGRyZFGp41kg3HguV9e6J1gg_aem_C34bpYA9UyaQckXqm0Nybw&e=AT3kmiiFhRynBD8AZs49kL5oEU5T270g5RopbtxG0loNeB_QQlU9RdufNgEzV5H_K4Jt-yn4CJ8XGpLX-b_NLHgTCgwzQxVyhwIynCE",
+                "media_accent_color_hex": "",
+                "media_type": "none",
+                "open_external_url_with_in_app_browser": true,
+                "title": "",
+                "url": "http://khy.com"
+            }
+        ],
+        "biography": "@kyliecosmetics @khy @drinksprinter",
+        "biography_email": null,
+        "biography_with_entities": {
+            "entities": [
+                {
+                    "user": {
+                        "id": "59793585159",
+                        "username": "khy"
+                    }
+                },
+                {
+                    "user": {
+                        "id": "57618206579",
+                        "username": "drinksprinter"
+                    }
+                },
+                {
+                    "user": {
+                        "id": "2223304785",
+                        "username": "kyliecosmetics"
+                    }
+                }
+            ],
+            "raw_text": "@kyliecosmetics @khy @drinksprinter"
+        },
+        "birthday_today_visibility_for_viewer": "NOT_VISIBLE",
+        "broadcast_chat_preference_status": {
+            "json_response": "{\"status\":\"ok\",\"status_code\":\"200\",\"is_broadcast_chat_creator\":true,\"notification_setting_type\":2}"
+        },
+        "business_contact_method": "UNKNOWN",
+        "can_add_fb_group_link_on_profile": false,
+        "can_hide_category": true,
+        "can_hide_public_contacts": true,
+        "can_use_affiliate_partnership_messaging_as_brand": false,
+        "can_use_affiliate_partnership_messaging_as_creator": false,
+        "can_use_branded_content_discovery_as_brand": false,
+        "can_use_branded_content_discovery_as_creator": false,
+        "can_use_paid_partnership_messaging_as_creator": false,
+        "category": "Public figure",
+        "category_id": 1602,
+        "chaining_upsell_cards": [],
+        "contact_phone_number": "",
+        "creator_shopping_info": {
+            "linked_merchant_accounts": [
+                {
+                    "full_name": "Kylie Cosmetics",
+                    "id": "2223304785",
+                    "is_private": false,
+                    "is_verified": true,
+                    "num_visible_storefront_products": -1,
+                    "profile_pic_id": "3670762283698838356",
+                    "profile_pic_url": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/516551259_18474652420072786_2306891420754571963_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHZC-uGz5AbnfjF1OncOCRS4zG8DFDVpTDz8tmhUKV-wgxGV3Ke1vOEb3l2uG7qd5s&_nc_ohc=-NVA__poR2YQ7kNvwHacl9p&_nc_gid=sbJlG1THmdy_rb-KXbvkNQ&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GFvyyR5S5dg2maJBALvyeFWGuQMgbmNDAQAB-ccb7-5&oh=00_AfZX0_FVvtM8YfRxCODhn7XMxZ7GbIxUwpNTddVsC8g1UQ&oe=68BDB6D9&_nc_sid=164c1d",
+                    "seller_shoppable_feed_type": "mini_shop_wave_2",
+                    "storefront_attribution_username": "kyliejenner",
+                    "username": "kyliecosmetics"
+                },
+                {
+                    "full_name": "Kylie Skin by Kylie Jenner",
+                    "id": "8140715822",
+                    "is_private": false,
+                    "is_verified": true,
+                    "num_visible_storefront_products": -1,
+                    "profile_pic_id": "3292895128094361535",
+                    "profile_pic_url": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/424431851_396305846120826_7101870745285192438_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDEyLmMyIn0&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QHZC-uGz5AbnfjF1OncOCRS4zG8DFDVpTDz8tmhUKV-wgxGV3Ke1vOEb3l2uG7qd5s&_nc_ohc=0tCQFuT7ECoQ7kNvwGTXgr2&_nc_gid=sbJlG1THmdy_rb-KXbvkNQ&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GOtQTBl6MS4lcGgBAPZqdsXQ6Y5ibkULAAAB-ccb7-5&oh=00_AfZWObOF7q8r0KsV83_ZdNli-GmgpKEtbj06taxeCE09uQ&oe=68BDAD6B&_nc_sid=164c1d",
+                    "seller_shoppable_feed_type": "mini_shop_wave_2",
+                    "storefront_attribution_username": "kyliejenner",
+                    "username": "kylieskin"
+                }
+            ]
+        },
+        "current_catalog_id": null,
+        "direct_messaging": "",
+        "disable_profile_shop_cta": false,
+        "eligible_for_text_app_activation_badge": false,
+        "enable_add_school_in_edit_profile": false,
+        "existing_user_age_collection_enabled": true,
+        "external_lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fkyliecosmetics.com%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaeshk6OxfkEle1ey6ka5jYyzsVA4ef3OUGLZa1EXC-jMIfAAwYbZxYh-fciMA_aem_iaYeTgAgiXq8nJ7rgyytuQ&e=AT3OmRvCDw60JbB4IKIdyNctCo3ihWO2vCw6aAHlw6fksvRyEKGm2eTpMdYV8Vbv1s0IGklCR_JdMyI8axe8vZ7VMtiBaMw2Ez2cSr8",
+        "external_url": "http://kyliecosmetics.com",
+        "fan_club_info": {
+            "autosave_to_exclusive_highlight": null,
+            "connected_member_count": null,
+            "fan_club_id": null,
+            "fan_club_name": null,
+            "fan_consideration_page_revamp_eligiblity": null,
+            "has_created_ssc": null,
+            "has_enough_subscribers_for_ssc": null,
+            "is_fan_club_gifting_eligible": null,
+            "is_fan_club_referral_eligible": null,
+            "is_free_trial_eligible": null,
+            "largest_public_bc_id": null,
+            "subscriber_count": null
+        },
+        "fbid_v2": "17841401734510191",
+        "feed_post_reshare_disabled": false,
+        "follow_friction_type": 0,
+        "follower_count": 392880387,
+        "following_count": 122,
+        "full_name": "Kylie",
+        "has_anonymous_profile_picture": false,
+        "has_chaining": false,
+        "has_collab_collections": false,
+        "has_ever_selected_topics": false,
+        "has_exclusive_feed_content": false,
+        "has_fan_club_subscriptions": false,
+        "has_gen_ai_personas_for_profile_banner": false,
+        "has_guides": false,
+        "has_highlight_reels": true,
+        "has_ig_profile": true,
+        "has_music_on_profile": false,
+        "has_nme_badge": false,
+        "has_private_collections": true,
+        "has_public_tab_threads": true,
+        "has_videos": true,
+        "has_views_fetching": true,
+        "hd_profile_pic_url_info": {
+            "height": 950,
+            "url": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/460968184_1750859332366163_8375966974919298902_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTAuYzIifQ&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHZC-uGz5AbnfjF1OncOCRS4zG8DFDVpTDz8tmhUKV-wgxGV3Ke1vOEb3l2uG7qd5s&_nc_ohc=RGjQycZRdrEQ7kNvwHsh90a&_nc_gid=sbJlG1THmdy_rb-KXbvkNQ&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GPjQeRtTr460ZTgGAFbPd-6VaT10bkULAAAB99-ccb7-5&oh=00_AfYJ6FCRaF7JxhFZyXksSjxdzJehUv4v-Vr032D7AJhgkA&oe=68BDCB72&_nc_sid=164c1d",
+            "width": 950
+        },
+        "hd_profile_pic_versions": [
+            {
+                "height": 320,
+                "url": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/460968184_1750859332366163_8375966974919298902_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTAuYzIifQ&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHZC-uGz5AbnfjF1OncOCRS4zG8DFDVpTDz8tmhUKV-wgxGV3Ke1vOEb3l2uG7qd5s&_nc_ohc=RGjQycZRdrEQ7kNvwHsh90a&_nc_gid=sbJlG1THmdy_rb-KXbvkNQ&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GPjQeRtTr460ZTgGAFbPd-6VaT10bkULAAAB13-ccb7-5&oh=00_Afb6kZ8RmYv5mmTgNix9qJt7pCq-LQxxzxboSwGf-Jys5w&oe=68BDCB72&_nc_sid=164c1d",
+                "width": 320
+            },
+            {
+                "height": 640,
+                "url": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/460968184_1750859332366163_8375966974919298902_n.jpg?stp=dst-jpg_s640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTAuYzIifQ&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHZC-uGz5AbnfjF1OncOCRS4zG8DFDVpTDz8tmhUKV-wgxGV3Ke1vOEb3l2uG7qd5s&_nc_ohc=RGjQycZRdrEQ7kNvwHsh90a&_nc_gid=sbJlG1THmdy_rb-KXbvkNQ&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GPjQeRtTr460ZTgGAFbPd-6VaT10bkULAAAB8-ccb7-5&oh=00_AfZqd7gpE8MsaAZxpu8igBgsFLlcmILxxN3WB3NNINIirA&oe=68BDCB72&_nc_sid=164c1d",
+                "width": 640
+            }
+        ],
+        "highlight_reshare_disabled": false,
+        "highlights_tray_type": "DEFAULT",
+        "id": "12281817",
+        "include_direct_blacklist_status": true,
+        "instagram_pk": "12281817",
+        "interop_messaging_user_fbid": 118550779532465,
+        "is_active_on_text_post_app": true,
+        "is_auto_confirm_enabled_for_all_reciprocal_follow_requests": false,
+        "is_bestie": false,
+        "is_business": false,
+        "is_call_to_action_enabled": false,
+        "is_cannes": false,
+        "is_category_tappable": false,
+        "is_creator_agent_enabled": false,
+        "is_direct_roll_call_enabled": true,
+        "is_eligible_for_creator_product_links": false,
+        "is_eligible_for_diverse_owned_business_info": false,
+        "is_eligible_for_meta_verified_enhanced_link_sheet": false,
+        "is_eligible_for_meta_verified_enhanced_link_sheet_consumption": false,
+        "is_eligible_for_meta_verified_label": true,
+        "is_eligible_for_meta_verified_links_in_reels": false,
+        "is_eligible_for_meta_verified_multiple_addresses_consumption": false,
+        "is_eligible_for_meta_verified_multiple_addresses_creation": false,
+        "is_eligible_for_meta_verified_related_accounts": false,
+        "is_eligible_for_post_boost_mv_upsell": false,
+        "is_eligible_for_request_message": false,
+        "is_eligible_for_slide": false,
+        "is_eligible_to_display_diverse_owned_business_info": false,
+        "is_favorite": false,
+        "is_favorite_for_clips": false,
+        "is_favorite_for_highlights": false,
+        "is_favorite_for_stories": false,
+        "is_in_canada": false,
+        "is_interest_account": true,
+        "is_memorialized": false,
+        "is_meta_verified_related_accounts_display_enabled": false,
+        "is_new_to_instagram": false,
+        "is_opal_enabled": false,
+        "is_open_to_collab": false,
+        "is_oregon_custom_gender_consented": false,
+        "is_parenting_account": false,
+        "is_potential_business": false,
+        "is_prime_onboarding_account": false,
+        "is_private": false,
+        "is_profile_audio_call_enabled": false,
+        "is_profile_broadcast_sharing_enabled": true,
+        "is_profile_picture_expansion_enabled": true,
+        "is_profile_search_enabled": false,
+        "is_recon_ad_cta_on_profile_eligible_with_viewer": true,
+        "is_regulated_c18": false,
+        "is_regulated_news_in_viewer_location": false,
+        "is_remix_setting_enabled_for_posts": true,
+        "is_remix_setting_enabled_for_reels": true,
+        "is_ring_creator": false,
+        "is_secondary_account_creation": false,
+        "is_stories_teaser_muted": false,
+        "is_supervision_features_enabled": false,
+        "is_verified": true,
+        "is_whatsapp_linked": false,
+        "latest_besties_reel_media": 0,
+        "latest_reel_media": 1756861395,
+        "live_subscription_status": "default",
+        "location_data": {
+            "address_street": "",
+            "city_id": 0,
+            "city_name": "",
+            "instagram_location_id": "",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "zip": ""
+        },
+        "media_count": 7274,
+        "merchant_checkout_style": "none",
+        "meta_verified_benefits_info": {
+            "active_meta_verified_benefits": [],
+            "is_eligible_for_meta_verified_content_protection": false
+        },
+        "meta_verified_related_accounts_count": 0,
+        "nametag": {
+            "available_theme_colors": [
+                -1,
+                7747834,
+                13828293,
+                16712041,
+                16742912,
+                0
+            ],
+            "background_image_url": "",
+            "emoji": "😀",
+            "emoji_color": 0,
+            "gradient": 1,
+            "is_background_image_blurred": false,
+            "mode": 0,
+            "selected_theme_color": -1,
+            "selfie_sticker": 0,
+            "selfie_url": "",
+            "theme_color": {
+                "available_theme_colors": [
+                    {
+                        "display_label": "Default",
+                        "int_value": -1
+                    },
+                    {
+                        "display_label": "Purple",
+                        "int_value": 7747834
+                    },
+                    {
+                        "display_label": "Lavender",
+                        "int_value": 13828293
+                    },
+                    {
+                        "display_label": "Pink",
+                        "int_value": 16712041
+                    },
+                    {
+                        "display_label": "Orange",
+                        "int_value": 16742912
+                    },
+                    {
+                        "display_label": "Black",
+                        "int_value": 0
+                    }
+                ],
+                "selected_theme_color": {
+                    "display_label": "Default",
+                    "int_value": -1
+                }
+            }
+        },
+        "nonpro_can_maybe_see_profile_hypercard": false,
+        "not_meta_verified_friction_info": {
+            "is_eligible_for_label_friction": false,
+            "label_friction_content": "Not Meta Verified"
+        },
+        "open_external_url_with_in_app_browser": true,
+        "page_id": null,
+        "page_name": null,
+        "pinned_channels_info": {
+            "has_public_channels": false,
+            "pinned_channels_list": []
+        },
+        "posts_subscription_status": "default",
+        "primary_profile_link_type": 0,
+        "professional_conversion_suggested_account_type": 3,
+        "profile_context": "",
+        "profile_context_facepile_users": [],
+        "profile_context_links_with_user_ids": [],
+        "profile_overlay_info": {
+            "bloks_payload": null,
+            "overlay_format": "MEDIA_GRID"
+        },
+        "profile_pic_genai_tool_info": [],
+        "profile_pic_id": "3461734690890141794",
+        "profile_pic_url": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/460968184_1750859332366163_8375966974919298902_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTAuYzIifQ&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QGnDhppcmIkViPhyEoPI5oMRN1xwimgSx4XWlpYAh53P5A9V23IvgceeLHl2Hbt1go&_nc_ohc=RGjQycZRdrEQ7kNvwHsh90a&_nc_gid=sbJlG1THmdy_rb-KXbvkNQ&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GPjQeRtTr460ZTgGAFbPd-6VaT10bkULAAAB-ccb7-5&oh=00_AfZwFB0ySaebyWBlpzHBz9zsuJ5ulQA6NO2ZEeicn_uLHA&oe=68BDCB72&_nc_sid=164c1d",
+        "profile_pic_url_hd": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/460968184_1750859332366163_8375966974919298902_n.jpg?stp=dst-jpg_s640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTAuYzIifQ&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHZC-uGz5AbnfjF1OncOCRS4zG8DFDVpTDz8tmhUKV-wgxGV3Ke1vOEb3l2uG7qd5s&_nc_ohc=RGjQycZRdrEQ7kNvwHsh90a&_nc_gid=sbJlG1THmdy_rb-KXbvkNQ&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GPjQeRtTr460ZTgGAFbPd-6VaT10bkULAAAB8-ccb7-5&oh=00_AfZqd7gpE8MsaAZxpu8igBgsFLlcmILxxN3WB3NNINIirA&oe=68BDCB72&_nc_sid=164c1d",
+        "profile_reels_sorting_eligibility": "DISABLED",
+        "profile_type": 0,
+        "pronouns": [],
+        "public_email": "",
+        "public_phone_country_code": "",
+        "public_phone_number": "",
+        "recon_features": {
+            "enable_recon_cta": true
+        },
+        "recs_from_friends": {
+            "enable_recs_from_friends": false,
+            "recs_from_friends_entry_point_type": "banner"
+        },
+        "reels_subscription_status": "default",
+        "relevant_news_regulation_locations": [],
+        "remove_message_entrypoint": false,
+        "request_contact_enabled": false,
+        "ring_creator_metadata": {},
+        "seller_shoppable_feed_type": "none",
+        "should_show_tagged_tab": true,
+        "show_account_transparency_details": true,
+        "show_blue_badge_on_main_profile": true,
+        "show_post_insights_entry_point": true,
+        "show_ring_award": false,
+        "show_schools_badge": null,
+        "show_shoppable_feed": false,
+        "show_wa_link_on_profile": false,
+        "spam_follower_setting_enabled": true,
+        "stories_subscription_status": "default",
+        "text_app_last_visited_time": null,
+        "text_post_app_badge_label": "kyliejenner",
+        "text_post_new_post_count": 0,
+        "third_party_downloads_enabled": 1,
+        "threads_profile_glyph_url": "https://www.threads.com/@kyliejenner?modal=true&xmt=AQF0AeEEkthTuVhdU3zkpwjkdjVjkmEdKV5Kj89l7IAPQHE",
+        "total_ar_effects": 0,
+        "transparency_product_enabled": false,
+        "trial_clips_enabled": false,
+        "trial_clips_rate_limiting": {
+            "at_limit_body": "You've shared the maximum number of trial reels allowed within 24 hours. You can share this reel to everyone now as a regular reel or wait up to 24 hours to share it as a trial reel.",
+            "at_limit_title": "You've reached the limit",
+            "count": 20,
+            "warning_body": "You’ve almost reached the limit. Once you share this trial reel, you’ll need to wait up to 24 hours to start using trial reels again.",
+            "warning_title": "You can share one more trial reel"
+        },
+        "upcoming_events": [],
+        "username": "kyliejenner",
+        "views_on_grid_status": "SHOW_VIEWS_ON_GRID"
+    },
+    {
+        "about": null,
+        "account_badges": [],
+        "account_category": "",
+        "account_type": 3,
+        "active_standalone_fundraisers": {
+            "fundraisers": [],
+            "total_count": 0
+        },
+        "additional_business_addresses": [],
+        "adjusted_banners_order": [],
+        "ads_incentive_expiration_date": null,
+        "ads_page_id": null,
+        "ads_page_name": null,
+        "allow_manage_memorialization": false,
+        "auto_expand_chaining": false,
+        "avatar_status": {
+            "has_avatar": false
+        },
+        "bio_links": [
+            {
+                "creation_source": "NONE",
+                "icon_url": "",
+                "image_url": "",
+                "is_pinned": false,
+                "is_verified": false,
+                "link_id": 18011012164429655,
+                "link_type": "external",
+                "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fselenagomez%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAac0UayixRro4MkNvOrx_mG_Hhs25l1_g6WbvTXlAxARrQUcX8AMAPflQ7k9qQ_aem_X8T-TyYZE2vaUSUkBAYGDg&e=AT0aUs9t8AlzzxVyPqkG-V4slog9ecY5Y3L6kxXTcytsuR6XKe41nxwhSPOgKFZNo82FUNtI9yS1VGooDLlVm8OQSoPUVbkmjZAWNhg",
+                "media_accent_color_hex": "",
+                "media_type": "none",
+                "open_external_url_with_in_app_browser": true,
+                "title": "",
+                "url": "https://linktr.ee/selenagomez"
+            },
+            {
+                "creation_source": "NONE",
+                "icon_url": "",
+                "image_url": "",
+                "is_pinned": false,
+                "is_verified": false,
+                "link_id": 17950062797927107,
+                "link_type": "external",
+                "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fselenagomez.lnk.to%2Fshop%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAadAtH4eaXvQcCA-M7OEyCvy8B0_Fk0u3hpVbNmU_P8L9C8MZYcTEDFMBzQU1g_aem_RQ2qD7TTcEe5RxG6noCYcA&e=AT3znsSKtYGhPQQuVmPRhfXjxjJfefq8LEmeESKj4yOwVYN6b9flpNexudzczvegTe8EP8hhyJocDVgmvpWvSIcJ7g5XD9QvFW2vweY",
+                "media_accent_color_hex": "",
+                "media_type": "none",
+                "open_external_url_with_in_app_browser": true,
+                "title": "Official Store",
+                "url": "http://selenagomez.lnk.to/shop"
+            }
+        ],
+        "biography": "“I Said I Love You First…And You Said It Back” Out Now🖤\nFounder @rarebeauty\nFounder/CIO @officialwondermind",
+        "biography_email": null,
+        "biography_with_entities": {
+            "entities": [
+                {
+                    "user": {
+                        "id": "50278761867",
+                        "username": "officialwondermind"
+                    }
+                },
+                {
+                    "user": {
+                        "id": "3109786630",
+                        "username": "rarebeauty"
+                    }
+                }
+            ],
+            "raw_text": "“I Said I Love You First…And You Said It Back” Out Now🖤\nFounder @rarebeauty\nFounder/CIO @officialwondermind"
+        },
+        "birthday_today_visibility_for_viewer": "NOT_VISIBLE",
+        "broadcast_chat_preference_status": {
+            "json_response": "{\"status\":\"ok\",\"status_code\":\"200\",\"is_broadcast_chat_creator\":true,\"notification_setting_type\":2}"
+        },
+        "business_contact_method": "UNKNOWN",
+        "can_add_fb_group_link_on_profile": false,
+        "can_hide_category": true,
+        "can_hide_public_contacts": true,
+        "can_use_affiliate_partnership_messaging_as_brand": false,
+        "can_use_affiliate_partnership_messaging_as_creator": false,
+        "can_use_branded_content_discovery_as_brand": false,
+        "can_use_branded_content_discovery_as_creator": false,
+        "can_use_paid_partnership_messaging_as_creator": false,
+        "category": "Artist",
+        "category_id": 1601,
+        "chaining_upsell_cards": [],
+        "contact_phone_number": "",
+        "creator_shopping_info": {
+            "linked_merchant_accounts": []
+        },
+        "current_catalog_id": null,
+        "direct_messaging": "",
+        "disable_profile_shop_cta": false,
+        "eligible_for_text_app_activation_badge": false,
+        "enable_add_school_in_edit_profile": false,
+        "existing_user_age_collection_enabled": true,
+        "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fselenagomez%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAac0UayixRro4MkNvOrx_mG_Hhs25l1_g6WbvTXlAxARrQUcX8AMAPflQ7k9qQ_aem_X8T-TyYZE2vaUSUkBAYGDg&e=AT0aUs9t8AlzzxVyPqkG-V4slog9ecY5Y3L6kxXTcytsuR6XKe41nxwhSPOgKFZNo82FUNtI9yS1VGooDLlVm8OQSoPUVbkmjZAWNhg",
+        "external_url": "https://linktr.ee/selenagomez",
+        "fan_club_info": {
+            "autosave_to_exclusive_highlight": null,
+            "connected_member_count": null,
+            "fan_club_id": null,
+            "fan_club_name": null,
+            "fan_consideration_page_revamp_eligiblity": null,
+            "has_created_ssc": null,
+            "has_enough_subscribers_for_ssc": null,
+            "is_fan_club_gifting_eligible": null,
+            "is_fan_club_referral_eligible": null,
+            "is_free_trial_eligible": null,
+            "largest_public_bc_id": null,
+            "subscriber_count": null
+        },
+        "fbid_v2": "17841400591697196",
+        "feed_post_reshare_disabled": false,
+        "follow_friction_type": 0,
+        "follower_count": 417639376,
+        "following_count": 348,
+        "full_name": "Selena Gomez",
+        "has_anonymous_profile_picture": false,
+        "has_chaining": false,
+        "has_collab_collections": false,
+        "has_ever_selected_topics": false,
+        "has_exclusive_feed_content": false,
+        "has_fan_club_subscriptions": false,
+        "has_gen_ai_personas_for_profile_banner": false,
+        "has_guides": false,
+        "has_highlight_reels": true,
+        "has_ig_profile": true,
+        "has_music_on_profile": false,
+        "has_nme_badge": false,
+        "has_private_collections": true,
+        "has_public_tab_threads": true,
+        "has_videos": true,
+        "has_views_fetching": true,
+        "hd_profile_pic_url_info": {
+            "height": 1032,
+            "url": "https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/506310332_18609160939019724_3952420009186030627_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDMyLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHVCVbLKkoOffLCmnQu7txrXogyCFtCaHi__kqWNj_8oJbuNSat68Ai4qB6WSCCpmA&_nc_ohc=w0hROOyd4DIQ7kNvwHEkcH1&_nc_gid=e6X93vUS9mH2jMgLJ5aTxA&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GLyuLR7MnVbr7hxCACP0rboO0dk2bvEnAQAB99-ccb7-5&oh=00_AfYzpqbKFJ-wJHntrNWRzb_rkf9UCu0KaSde2CCNAJlwZQ&oe=68BD9E8B&_nc_sid=164c1d",
+            "width": 1032
+        },
+        "hd_profile_pic_versions": [
+            {
+                "height": 320,
+                "url": "https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/506310332_18609160939019724_3952420009186030627_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDMyLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHVCVbLKkoOffLCmnQu7txrXogyCFtCaHi__kqWNj_8oJbuNSat68Ai4qB6WSCCpmA&_nc_ohc=w0hROOyd4DIQ7kNvwHEkcH1&_nc_gid=e6X93vUS9mH2jMgLJ5aTxA&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GLyuLR7MnVbr7hxCACP0rboO0dk2bvEnAQAB13-ccb7-5&oh=00_Afa6mXPkMIY331DrtcAyolP3PgXyPxOZ1WQfEd94cRGySw&oe=68BD9E8B&_nc_sid=164c1d",
+                "width": 320
+            },
+            {
+                "height": 640,
+                "url": "https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/506310332_18609160939019724_3952420009186030627_n.jpg?stp=dst-jpg_s640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDMyLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHVCVbLKkoOffLCmnQu7txrXogyCFtCaHi__kqWNj_8oJbuNSat68Ai4qB6WSCCpmA&_nc_ohc=w0hROOyd4DIQ7kNvwHEkcH1&_nc_gid=e6X93vUS9mH2jMgLJ5aTxA&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GLyuLR7MnVbr7hxCACP0rboO0dk2bvEnAQAB8-ccb7-5&oh=00_AfZ-9lsO7p3s4dnetLanGQLwT-NgqfRA_29uPY3wLnMj_A&oe=68BD9E8B&_nc_sid=164c1d",
+                "width": 640
+            }
+        ],
+        "highlight_reshare_disabled": false,
+        "highlights_tray_type": "DEFAULT",
+        "id": "460563723",
+        "include_direct_blacklist_status": true,
+        "instagram_pk": "460563723",
+        "interop_messaging_user_fbid": 104033730989950,
+        "is_active_on_text_post_app": true,
+        "is_auto_confirm_enabled_for_all_reciprocal_follow_requests": false,
+        "is_bestie": false,
+        "is_business": false,
+        "is_call_to_action_enabled": false,
+        "is_cannes": false,
+        "is_category_tappable": true,
+        "is_creator_agent_enabled": false,
+        "is_direct_roll_call_enabled": true,
+        "is_eligible_for_creator_product_links": false,
+        "is_eligible_for_meta_verified_enhanced_link_sheet": false,
+        "is_eligible_for_meta_verified_enhanced_link_sheet_consumption": false,
+        "is_eligible_for_meta_verified_label": true,
+        "is_eligible_for_meta_verified_links_in_reels": false,
+        "is_eligible_for_meta_verified_multiple_addresses_consumption": false,
+        "is_eligible_for_meta_verified_multiple_addresses_creation": false,
+        "is_eligible_for_meta_verified_related_accounts": false,
+        "is_eligible_for_post_boost_mv_upsell": false,
+        "is_eligible_for_request_message": false,
+        "is_eligible_for_slide": false,
+        "is_favorite": false,
+        "is_favorite_for_clips": false,
+        "is_favorite_for_highlights": false,
+        "is_favorite_for_stories": false,
+        "is_in_canada": false,
+        "is_interest_account": true,
+        "is_memorialized": false,
+        "is_meta_verified_related_accounts_display_enabled": false,
+        "is_new_to_instagram": false,
+        "is_opal_enabled": false,
+        "is_open_to_collab": false,
+        "is_oregon_custom_gender_consented": false,
+        "is_parenting_account": false,
+        "is_potential_business": false,
+        "is_prime_onboarding_account": false,
+        "is_private": false,
+        "is_profile_audio_call_enabled": false,
+        "is_profile_broadcast_sharing_enabled": true,
+        "is_profile_picture_expansion_enabled": true,
+        "is_profile_search_enabled": false,
+        "is_recon_ad_cta_on_profile_eligible_with_viewer": true,
+        "is_regulated_c18": false,
+        "is_regulated_news_in_viewer_location": false,
+        "is_remix_setting_enabled_for_posts": true,
+        "is_remix_setting_enabled_for_reels": true,
+        "is_ring_creator": false,
+        "is_secondary_account_creation": false,
+        "is_stories_teaser_muted": false,
+        "is_supervision_features_enabled": false,
+        "is_verified": true,
+        "is_whatsapp_linked": false,
+        "latest_besties_reel_media": 0,
+        "latest_reel_media": 0,
+        "live_subscription_status": "default",
+        "location_data": {
+            "address_street": "",
+            "city_id": 0,
+            "city_name": "",
+            "instagram_location_id": "7961985974",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "zip": ""
+        },
+        "media_count": 2119,
+        "merchant_checkout_style": "none",
+        "meta_verified_benefits_info": {
+            "active_meta_verified_benefits": [],
+            "is_eligible_for_meta_verified_content_protection": false
+        },
+        "meta_verified_related_accounts_count": 0,
+        "nametag": {
+            "available_theme_colors": [
+                -1,
+                7747834,
+                13828293,
+                16712041,
+                16742912,
+                0
+            ],
+            "background_image_url": "",
+            "emoji": "😀",
+            "emoji_color": 0,
+            "gradient": 0,
+            "is_background_image_blurred": false,
+            "mode": 0,
+            "selected_theme_color": -1,
+            "selfie_sticker": 0,
+            "selfie_url": "",
+            "theme_color": {
+                "available_theme_colors": [
+                    {
+                        "display_label": "Default",
+                        "int_value": -1
+                    },
+                    {
+                        "display_label": "Purple",
+                        "int_value": 7747834
+                    },
+                    {
+                        "display_label": "Lavender",
+                        "int_value": 13828293
+                    },
+                    {
+                        "display_label": "Pink",
+                        "int_value": 16712041
+                    },
+                    {
+                        "display_label": "Orange",
+                        "int_value": 16742912
+                    },
+                    {
+                        "display_label": "Black",
+                        "int_value": 0
+                    }
+                ],
+                "selected_theme_color": {
+                    "display_label": "Default",
+                    "int_value": -1
+                }
+            }
+        },
+        "nonpro_can_maybe_see_profile_hypercard": false,
+        "not_meta_verified_friction_info": {
+            "is_eligible_for_label_friction": false,
+            "label_friction_content": "Not Meta Verified"
+        },
+        "open_external_url_with_in_app_browser": true,
+        "page_id": 7961985974,
+        "page_name": "Selena Gomez",
+        "pinned_channels_info": {
+            "has_public_channels": false,
+            "pinned_channels_list": []
+        },
+        "posts_subscription_status": "default",
+        "primary_profile_link_type": 0,
+        "professional_conversion_suggested_account_type": 3,
+        "profile_context": "",
+        "profile_context_facepile_users": [],
+        "profile_context_links_with_user_ids": [],
+        "profile_overlay_info": {
+            "bloks_payload": null,
+            "overlay_format": "MEDIA_GRID"
+        },
+        "profile_pic_genai_tool_info": [],
+        "profile_pic_id": "3654363041401052505",
+        "profile_pic_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/506310332_18609160939019724_3952420009186030627_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDMyLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHhYe8lhNRkqjIKK9dU8f_S97GXulQ8JNTN8XEku_vvxBEM08ESLo8_rnR9uMgW62A&_nc_ohc=w0hROOyd4DIQ7kNvwHEkcH1&_nc_gid=e6X93vUS9mH2jMgLJ5aTxA&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GLyuLR7MnVbr7hxCACP0rboO0dk2bvEnAQAB-ccb7-5&oh=00_AfYosJXnqcjMwWdWNuaHNRq37qxs_VDsSF-Xxu1ujm3w6A&oe=68BD9E8B&_nc_sid=164c1d",
+        "profile_pic_url_hd": "https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/506310332_18609160939019724_3952420009186030627_n.jpg?stp=dst-jpg_s640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDMyLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHVCVbLKkoOffLCmnQu7txrXogyCFtCaHi__kqWNj_8oJbuNSat68Ai4qB6WSCCpmA&_nc_ohc=w0hROOyd4DIQ7kNvwHEkcH1&_nc_gid=e6X93vUS9mH2jMgLJ5aTxA&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GLyuLR7MnVbr7hxCACP0rboO0dk2bvEnAQAB8-ccb7-5&oh=00_AfZ-9lsO7p3s4dnetLanGQLwT-NgqfRA_29uPY3wLnMj_A&oe=68BD9E8B&_nc_sid=164c1d",
+        "profile_reels_sorting_eligibility": "DISABLED",
+        "profile_type": 0,
+        "pronouns": [],
+        "public_email": "",
+        "public_phone_country_code": "",
+        "public_phone_number": "",
+        "recon_features": {
+            "enable_recon_cta": true
+        },
+        "recs_from_friends": {
+            "enable_recs_from_friends": false,
+            "recs_from_friends_entry_point_type": "banner"
+        },
+        "reels_subscription_status": "default",
+        "relevant_news_regulation_locations": [],
+        "remove_message_entrypoint": false,
+        "request_contact_enabled": false,
+        "ring_creator_metadata": {},
+        "seller_shoppable_feed_type": "none",
+        "should_show_tagged_tab": true,
+        "show_account_transparency_details": true,
+        "show_blue_badge_on_main_profile": true,
+        "show_post_insights_entry_point": true,
+        "show_ring_award": false,
+        "show_schools_badge": null,
+        "show_shoppable_feed": false,
+        "show_wa_link_on_profile": false,
+        "spam_follower_setting_enabled": true,
+        "stories_subscription_status": "default",
+        "text_app_last_visited_time": null,
+        "text_post_app_badge_label": "selenagomez",
+        "text_post_new_post_count": 0,
+        "third_party_downloads_enabled": 1,
+        "threads_profile_glyph_url": "https://www.threads.com/@selenagomez?modal=true&xmt=AQF0efhEsb4Vs8w5VsLh92RaQABex-hesMhzoHUQadh4aYU",
+        "total_ar_effects": 0,
+        "transparency_product_enabled": false,
+        "trial_clips_enabled": false,
+        "trial_clips_rate_limiting": {
+            "at_limit_body": "You've shared the maximum number of trial reels allowed within 24 hours. You can share this reel to everyone now as a regular reel or wait up to 24 hours to share it as a trial reel.",
+            "at_limit_title": "You've reached the limit",
+            "count": 20,
+            "warning_body": "You’ve almost reached the limit. Once you share this trial reel, you’ll need to wait up to 24 hours to start using trial reels again.",
+            "warning_title": "You can share one more trial reel"
+        },
+        "upcoming_events": [],
+        "username": "selenagomez",
+        "views_on_grid_status": "HIDE_VIEWS_ON_GRID"
+    },
+    {
+        "about": null,
+        "account_badges": [],
+        "account_category": "",
+        "account_type": 3,
+        "active_standalone_fundraisers": {
+            "fundraisers": [],
+            "total_count": 0
+        },
+        "additional_business_addresses": [],
+        "adjusted_banners_order": [],
+        "ads_incentive_expiration_date": null,
+        "ads_page_id": null,
+        "ads_page_name": null,
+        "allow_manage_memorialization": false,
+        "auto_expand_chaining": false,
+        "avatar_status": {
+            "has_avatar": false
+        },
+        "bio_links": [
+            {
+                "creation_source": "NONE",
+                "icon_url": "",
+                "image_url": "",
+                "is_pinned": false,
+                "is_verified": false,
+                "link_id": 17946100901262516,
+                "link_type": "external",
+                "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Ftherock.komi.io%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAacd-bgqV2WplbeoikAk_PkZ-kH93nmuvUYoyn1CmY_Ezh3LgyPd4Zee46KxaA_aem_e53nXKkSQvl9PD845iOqRQ&e=AT1X0T0oFDBb-zURiqZ5uDThRv8Gk8AM0KFPym3xvu_FLT7mmmJhJh-5QrYfIc1kNOph4p_hYkI3ttdcDpy1bKd0XvjRBSpaX7JxA9U",
+                "media_accent_color_hex": "",
+                "media_type": "none",
+                "open_external_url_with_in_app_browser": true,
+                "title": "",
+                "url": "http://therock.komi.io"
+            }
+        ],
+        "biography": "givin’ it some thought",
+        "biography_email": null,
+        "biography_with_entities": {
+            "entities": [],
+            "raw_text": "givin’ it some thought"
+        },
+        "birthday_today_visibility_for_viewer": "NOT_VISIBLE",
+        "broadcast_chat_preference_status": {
+            "json_response": "{\"status\":\"ok\",\"status_code\":\"200\",\"is_broadcast_chat_creator\":true,\"notification_setting_type\":2}"
+        },
+        "business_contact_method": "UNKNOWN",
+        "can_add_fb_group_link_on_profile": false,
+        "can_hide_category": true,
+        "can_hide_public_contacts": true,
+        "can_use_affiliate_partnership_messaging_as_brand": false,
+        "can_use_affiliate_partnership_messaging_as_creator": false,
+        "can_use_branded_content_discovery_as_brand": false,
+        "can_use_branded_content_discovery_as_creator": false,
+        "can_use_paid_partnership_messaging_as_creator": false,
+        "category": "Public figure",
+        "category_id": 1602,
+        "chaining_upsell_cards": [],
+        "contact_phone_number": "",
+        "creator_shopping_info": {
+            "linked_merchant_accounts": []
+        },
+        "current_catalog_id": null,
+        "direct_messaging": "",
+        "disable_profile_shop_cta": false,
+        "eligible_for_text_app_activation_badge": false,
+        "enable_add_school_in_edit_profile": false,
+        "existing_user_age_collection_enabled": true,
+        "external_lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Ftherock.komi.io%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAacd-bgqV2WplbeoikAk_PkZ-kH93nmuvUYoyn1CmY_Ezh3LgyPd4Zee46KxaA_aem_e53nXKkSQvl9PD845iOqRQ&e=AT1X0T0oFDBb-zURiqZ5uDThRv8Gk8AM0KFPym3xvu_FLT7mmmJhJh-5QrYfIc1kNOph4p_hYkI3ttdcDpy1bKd0XvjRBSpaX7JxA9U",
+        "external_url": "http://therock.komi.io",
+        "fan_club_info": {
+            "autosave_to_exclusive_highlight": null,
+            "connected_member_count": null,
+            "fan_club_id": null,
+            "fan_club_name": null,
+            "fan_consideration_page_revamp_eligiblity": null,
+            "has_created_ssc": null,
+            "has_enough_subscribers_for_ssc": null,
+            "is_fan_club_gifting_eligible": null,
+            "is_fan_club_referral_eligible": null,
+            "is_free_trial_eligible": null,
+            "largest_public_bc_id": null,
+            "subscriber_count": null
+        },
+        "fbid_v2": "17841400005463628",
+        "feed_post_reshare_disabled": false,
+        "follow_friction_type": 0,
+        "follower_count": 392570751,
+        "following_count": 183,
+        "full_name": "Dwayne Johnson",
+        "has_anonymous_profile_picture": false,
+        "has_chaining": true,
+        "has_collab_collections": false,
+        "has_ever_selected_topics": false,
+        "has_exclusive_feed_content": false,
+        "has_fan_club_subscriptions": false,
+        "has_gen_ai_personas_for_profile_banner": false,
+        "has_guides": false,
+        "has_highlight_reels": true,
+        "has_ig_profile": true,
+        "has_music_on_profile": false,
+        "has_nme_badge": false,
+        "has_private_collections": false,
+        "has_public_tab_threads": true,
+        "has_videos": true,
+        "has_views_fetching": true,
+        "hd_profile_pic_url_info": {
+            "height": 150,
+            "url": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/11850309_1674349799447611_206178162_a.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHTiih714qS9bH_uliRceqWTgs9Q6uYbPlWvG0k8TEYaLjvlxs3rJBkFfzT9SvtfOg&_nc_ohc=XWmuZFP5wW8Q7kNvwERc8_v&_nc_gid=mw7ToK5Z4YdC0kvgGMM0HA&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GEXStAA7nAbxz-IFAHIHSgwAAAAAYUULAAAB99-ccb7-5&oh=00_AfbYRawxfNS5DLK8iYEORR0KzuV7Yl160rmjC2Z9pbwBcg&oe=68BD8BC4&_nc_sid=164c1d",
+            "width": 150
+        },
+        "highlight_reshare_disabled": false,
+        "highlights_tray_type": "DEFAULT",
+        "id": "232192182",
+        "include_direct_blacklist_status": true,
+        "instagram_pk": "232192182",
+        "interop_messaging_user_fbid": 103372757729107,
+        "is_active_on_text_post_app": false,
+        "is_auto_confirm_enabled_for_all_reciprocal_follow_requests": false,
+        "is_bestie": false,
+        "is_business": false,
+        "is_call_to_action_enabled": false,
+        "is_cannes": false,
+        "is_category_tappable": false,
+        "is_creator_agent_enabled": false,
+        "is_creator_automated_response_enabled": false,
+        "is_direct_roll_call_enabled": true,
+        "is_eligible_for_creator_product_links": false,
+        "is_eligible_for_diverse_owned_business_info": false,
+        "is_eligible_for_meta_verified_enhanced_link_sheet": false,
+        "is_eligible_for_meta_verified_enhanced_link_sheet_consumption": false,
+        "is_eligible_for_meta_verified_label": true,
+        "is_eligible_for_meta_verified_links_in_reels": false,
+        "is_eligible_for_meta_verified_multiple_addresses_consumption": false,
+        "is_eligible_for_meta_verified_multiple_addresses_creation": false,
+        "is_eligible_for_meta_verified_related_accounts": false,
+        "is_eligible_for_post_boost_mv_upsell": false,
+        "is_eligible_for_request_message": false,
+        "is_eligible_for_slide": false,
+        "is_eligible_to_display_diverse_owned_business_info": false,
+        "is_favorite": false,
+        "is_favorite_for_clips": false,
+        "is_favorite_for_highlights": false,
+        "is_favorite_for_stories": false,
+        "is_in_canada": false,
+        "is_interest_account": true,
+        "is_memorialized": false,
+        "is_meta_verified_related_accounts_display_enabled": false,
+        "is_new_to_instagram": false,
+        "is_opal_enabled": false,
+        "is_open_to_collab": false,
+        "is_oregon_custom_gender_consented": false,
+        "is_parenting_account": false,
+        "is_potential_business": false,
+        "is_prime_onboarding_account": false,
+        "is_private": false,
+        "is_profile_audio_call_enabled": false,
+        "is_profile_broadcast_sharing_enabled": true,
+        "is_profile_picture_expansion_enabled": true,
+        "is_profile_search_enabled": false,
+        "is_recon_ad_cta_on_profile_eligible_with_viewer": true,
+        "is_regulated_c18": false,
+        "is_regulated_news_in_viewer_location": false,
+        "is_remix_setting_enabled_for_posts": true,
+        "is_remix_setting_enabled_for_reels": true,
+        "is_ring_creator": false,
+        "is_secondary_account_creation": false,
+        "is_stories_teaser_muted": false,
+        "is_supervision_features_enabled": false,
+        "is_verified": true,
+        "is_whatsapp_linked": false,
+        "latest_besties_reel_media": 0,
+        "latest_reel_media": 0,
+        "live_subscription_status": "default",
+        "location_data": {
+            "address_street": "",
+            "city_id": 0,
+            "city_name": "",
+            "instagram_location_id": "406433779383",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "zip": ""
+        },
+        "media_count": 8146,
+        "merchant_checkout_style": "none",
+        "meta_verified_benefits_info": {
+            "active_meta_verified_benefits": [],
+            "is_eligible_for_meta_verified_content_protection": false
+        },
+        "meta_verified_related_accounts_count": 0,
+        "nametag": {
+            "available_theme_colors": [
+                -1,
+                7747834,
+                13828293,
+                16712041,
+                16742912,
+                0
+            ],
+            "background_image_url": "",
+            "emoji": "😀",
+            "emoji_color": 0,
+            "gradient": 0,
+            "is_background_image_blurred": false,
+            "mode": 0,
+            "selected_theme_color": -1,
+            "selfie_sticker": 0,
+            "selfie_url": "",
+            "theme_color": {
+                "available_theme_colors": [
+                    {
+                        "display_label": "Default",
+                        "int_value": -1
+                    },
+                    {
+                        "display_label": "Purple",
+                        "int_value": 7747834
+                    },
+                    {
+                        "display_label": "Lavender",
+                        "int_value": 13828293
+                    },
+                    {
+                        "display_label": "Pink",
+                        "int_value": 16712041
+                    },
+                    {
+                        "display_label": "Orange",
+                        "int_value": 16742912
+                    },
+                    {
+                        "display_label": "Black",
+                        "int_value": 0
+                    }
+                ],
+                "selected_theme_color": {
+                    "display_label": "Default",
+                    "int_value": -1
+                }
+            }
+        },
+        "nonpro_can_maybe_see_profile_hypercard": false,
+        "not_meta_verified_friction_info": {
+            "is_eligible_for_label_friction": false,
+            "label_friction_content": "Not Meta Verified"
+        },
+        "open_external_url_with_in_app_browser": true,
+        "page_id": 406433779383,
+        "page_name": "Dwayne The Rock Johnson",
+        "pinned_channels_info": {
+            "has_public_channels": false,
+            "pinned_channels_list": []
+        },
+        "posts_subscription_status": "default",
+        "primary_profile_link_type": 0,
+        "professional_conversion_suggested_account_type": 3,
+        "profile_context": "",
+        "profile_context_facepile_users": [],
+        "profile_context_links_with_user_ids": [],
+        "profile_overlay_info": {
+            "bloks_payload": null,
+            "overlay_format": "MEDIA_GRID"
+        },
+        "profile_pic_genai_tool_info": [],
+        "profile_pic_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/11850309_1674349799447611_206178162_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QFIZoz7eReoppD0xTwMT0kN7FU9oWLPycXzym7QeXmAIrbzLCu7FH6XnztzMm8IjFk&_nc_ohc=XWmuZFP5wW8Q7kNvwERc8_v&_nc_gid=mw7ToK5Z4YdC0kvgGMM0HA&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GEXStAA7nAbxz-IFAHIHSgwAAAAAYUULAAAB-ccb7-5&oh=00_AfbDBdria1AevAiEVutw-o5WwYklGgDNqIC5We3QJd6nQw&oe=68BD8BC4&_nc_sid=164c1d",
+        "profile_pic_url_hd": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/11850309_1674349799447611_206178162_a.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHTiih714qS9bH_uliRceqWTgs9Q6uYbPlWvG0k8TEYaLjvlxs3rJBkFfzT9SvtfOg&_nc_ohc=XWmuZFP5wW8Q7kNvwERc8_v&_nc_gid=mw7ToK5Z4YdC0kvgGMM0HA&edm=AO4kU9EBAAAA&ccb=7-5&ig_cache_key=GEXStAA7nAbxz-IFAHIHSgwAAAAAYUULAAAB99-ccb7-5&oh=00_AfbYRawxfNS5DLK8iYEORR0KzuV7Yl160rmjC2Z9pbwBcg&oe=68BD8BC4&_nc_sid=164c1d",
+        "profile_reels_sorting_eligibility": "DISABLED",
+        "profile_type": 0,
+        "pronouns": [],
+        "public_email": "",
+        "public_phone_country_code": "",
+        "public_phone_number": "",
+        "recon_features": {
+            "enable_recon_cta": true
+        },
+        "recs_from_friends": {
+            "enable_recs_from_friends": false,
+            "recs_from_friends_entry_point_type": "banner"
+        },
+        "reels_subscription_status": "default",
+        "relevant_news_regulation_locations": [],
+        "remove_message_entrypoint": false,
+        "request_contact_enabled": false,
+        "ring_creator_metadata": {},
+        "seller_shoppable_feed_type": "none",
+        "should_show_tagged_tab": true,
+        "show_account_transparency_details": true,
+        "show_blue_badge_on_main_profile": true,
+        "show_post_insights_entry_point": true,
+        "show_ring_award": false,
+        "show_schools_badge": null,
+        "show_shoppable_feed": false,
+        "show_wa_link_on_profile": false,
+        "spam_follower_setting_enabled": true,
+        "stories_subscription_status": "default",
+        "text_app_last_visited_time": null,
+        "third_party_downloads_enabled": 1,
+        "total_ar_effects": 0,
+        "transparency_product_enabled": false,
+        "trial_clips_enabled": false,
+        "trial_clips_rate_limiting": {
+            "at_limit_body": "You've shared the maximum number of trial reels allowed within 24 hours. You can share this reel to everyone now as a regular reel or wait up to 24 hours to share it as a trial reel.",
+            "at_limit_title": "You've reached the limit",
+            "count": 20,
+            "warning_body": "You’ve almost reached the limit. Once you share this trial reel, you’ll need to wait up to 24 hours to start using trial reels again.",
+            "warning_title": "You can share one more trial reel"
+        },
+        "upcoming_events": [],
+        "username": "therock",
+        "views_on_grid_status": "SHOW_VIEWS_ON_GRID"
+    }
+]
